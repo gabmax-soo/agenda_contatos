@@ -1,5 +1,5 @@
 Esse mini projeto foi feito para à pratica do básico de orientação à objetos,
-nele foram usados dos pacotes para a organização um de aplicação e outro de 
+nele foram usados dois pacotes para a organização um de aplicação e outro de 
 dominio.
 
 No pacote dominio foi criado duas classes uma Agenda onde foi criada uma lista
